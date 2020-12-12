@@ -1,7 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-  // TO DO - solve the problem
+  int x,y;
+  cin >> x >> y;
+  cout << x+y;
   return 0;
 }
